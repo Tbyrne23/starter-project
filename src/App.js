@@ -14,7 +14,7 @@ const App = () => {
 
   // When the button is clicked
   const btnHandler = () => {
-    alert('The buttion is clickable!');
+    alert('Fool!');
   };
 
   return (
